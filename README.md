@@ -17,8 +17,5 @@ List of scripts/commands that needs to be run (in order)
 5. generate_reads.sh
   * Change values accordingly inside script
 
-6. combine_reads.sh
-  * Change values accordingly inside script
-  
 7. isis.sh
   * Change values accordingly inside script
