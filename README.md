@@ -1,6 +1,8 @@
 # Simulation
 
 List of scripts/commands that needs to be run (in order)
+
+
 1. generate_coords.py
   "python generate_coords.py /home/hkang/volcano/Simulation/static/TruSightTumor_FPA_Manifest.txt /home/hkang/volcano/Simulation/static/coords.bed" 
 2. bedtools getfasta
